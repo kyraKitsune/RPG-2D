@@ -1,1 +1,3 @@
 # RPG-2D
+
+Here is a training on Unity C#, i am actually doing a RPG 2D where the player can move on the axies X and Y, do enemys to fight and make some quest and many others things...
